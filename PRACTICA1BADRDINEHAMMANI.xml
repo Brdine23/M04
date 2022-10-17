@@ -1,0 +1,52 @@
+//Codigo xml que contiene la información de una agenda telefònica
+<?xml version="1.0" encoding="UTF-8"?> //declaramos la versión xml
+<agenda> //etiqueta root
+    <persona>  //etiqueta parent
+    //etiquetes child de persona
+        <pais pais="espanya"> //atribut de persona
+            <nom>Paco</nom>
+            <cognom>gomez</cognom>
+            <direccio>calle tres</direccio>
+            <telefon> //etiquetes child de telefon
+                <casa>972131415</casa>
+                <treball>635987564</treball>
+                <mobil>632363738</mobil>
+            </telefon>
+        <pais pais="espanya">
+            <nom>Fran</nom>
+            <cognom>garrido</cognom>
+            <direccio>calle cuatro</direccio>
+            <telefon>
+                <casa>972131416</casa>
+                <treball>635987565</treball>
+                <mobil>632363739</mobil>
+            </telefon>
+        <pais pais="italia">
+            <nom>Fran</nom>
+            <cognom>lopez</cognom>
+            <direccio>calle cinco</direccio>
+            <telefon>
+                <casa>972131417</casa>
+                <treball>635987566</treball>
+                <mobil>632363731</mobil>
+            </telefon>
+        <pais pais="argentina">
+            <nom>Fran</nom>
+            <cognom>nieto</cognom>
+            <direccio>calle seis</direccio>
+            <telefon>
+                <casa>972131418</casa>
+                <treball>635987567</treball>
+                <mobil>632363732</mobil>
+            </telefon>
+        <pais pais="argentina">
+            <nom>Fran</nom>
+            <cognom>lopez</cognom>
+            <direccio>calle siete</direccio>
+            <telefon>
+                <casa>972131419</casa>
+                <treball>635987568</treball>
+                <mobil>632363733</mobil>
+            </telefon>
+    </persona>
+</agenda>
