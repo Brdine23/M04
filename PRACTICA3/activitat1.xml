@@ -1,0 +1,33 @@
+<? version="1.0"?>
+<students>
+    <student>
+        <name>Bader</name>
+        <surname>Hammani</surname>
+        <email>bader@gmail.com</email>
+        <dni>458338838t</dni>
+    </student>
+    <student>
+        <name>Gabi</name>
+        <surname>Casas</surname>
+        <email>gabi@gmail.com</email>
+        <dni>45845567h</dni>
+    </student>
+    <student>
+        <name>Angelo</name>
+        <surname>Town</surname>
+        <email>angelo@gmail.com</email>
+        <dni>4583332134s</dni>
+    </student>
+    <student>
+        <name>Bilal</name>
+        <surname>Laoui</surname>
+        <email>bilal@gmail.com</email>
+        <dni>45836666g</dni>
+    </student>
+    <student>
+        <name>Raer</name>
+        <surname>Gaes</surname>
+        <email>gaer@gmail.com</email>
+        <dni>4583345645t</dni>
+    </student>
+</students>
