@@ -7,7 +7,7 @@
         <email>bader@gmail.com</email>
         <dni>458338838t</dni>
     </student>
-    <student>
+    <student pais="españa">
         <name>Gabi</name>
         <surname>Casas</surname>
         <email>gabi@gmail.com</email>
