@@ -1,8 +1,9 @@
 <!--Badrdine Hammani y Gabriel Casas-->
-<? version="1.0"?>
-<students>
-    <student pais="argentina">
-        <name>Bader</name>
+<? version="1.0"?> <!--Especifíquem la versió-->
+<students> <!--He creat la etiqueta root-->
+    <!--Creació dels childs-->
+    <student pais="argentina">  <!--Atribut-->
+        <name>Bader</name> <!--Creació del subchilds-->
         <surname>Hammani</surname>
         <email>bader@gmail.com</email>
         <dni>458338838t</dni>

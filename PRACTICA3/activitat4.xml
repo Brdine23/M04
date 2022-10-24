@@ -1,6 +1,9 @@
-<? version="1.0"?>
-<bookstore> 
+<!--Badrdine Hammani y Gabriel Casas-->
+<? version="1.0"?> <!--Especifíquem la versió-->
+<bookstore>  <!--He creat la etiqueta root-->
+<!--Creació dels child-->
 <book>
+<!--Creació del subchilds-->
 <tittle>Arnaldo</tittle>
 <publisher>Elvaixelldevapor</publisher>
 <cover>Joseluis</cover>
