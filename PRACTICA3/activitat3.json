@@ -1,7 +1,7 @@
-{"bookstor":{
+{"bookstore":{
         "book": {
-                "title":"computer",
-                "publisher":"Matebook",
-                "cover":"Huawei",
+                "title":"Arnaldo",
+                "publisher":"Elvaixelldevapor",
+                "cover":"Joseluis",
                 "price":"13"
 }}}

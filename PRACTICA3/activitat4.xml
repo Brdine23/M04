@@ -1,0 +1,10 @@
+<? version="1.0"?>
+<bookstore> 
+<book>
+<tittle>Arnaldo</tittle>
+<publisher>Elvaixelldevapor</publisher>
+<cover>Joseluis</cover>
+<price>13</price>
+</book>
+
+</bookstore>
