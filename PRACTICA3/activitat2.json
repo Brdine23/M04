@@ -1,40 +1,40 @@
 {"students":{
-"student":{
-    "name":"Bader",
-    "surname":"Hamani",
-    "email":"bader@gmail.com",
-    "dni":"458338838t",
-    "pais":"argentina"
-
-},
-"student":{
-    "name":"Gabi",
-    "surname":"Casas",
-    "email":"gabi@gmail.com",
-    "dni":"45845567h",
-    "pais":"argentina"
-
-
-},
-"student":{
-    "name":"Angelo",
-    "surname":"Town",
-    "email":"angelo@gmail.com",
-    "dni":"45845567h",
-    "pais":"españa"
-},
-"student":{
-    "name":"Bilal",
-    "surname":"Laoui",
-    "email":"bilal@gmail.com",
-    "dni":"45836666g",
-    "pais":"españa"
-},
-"student":{
-    "name":"Raer",
-    "surname":"Gaes",
-    "email":"gaer@gmail.com",
-    "dni":"4583345645t",
-    "pais":"rusia"
-}}}
+    "student":{
+        "name":"Bader",
+        "surname":"Hamani",
+        "email":"bader@gmail.com",
+        "dni":"458338838t",
+        "pais":"argentina"
     
+    },
+    "student":{
+        "name":"Gabi",
+        "surname":"Casas",
+        "email":"gabi@gmail.com",
+        "dni":"45845567h",
+        "pais":"argentina"
+    
+    
+    },
+    "student":{
+        "name":"Angelo",
+        "surname":"Town",
+        "email":"angelo@gmail.com",
+        "dni":"45845567h",
+        "pais":"españa"
+    },
+    "student":{
+        "name":"Bilal",
+        "surname":"Laoui",
+        "email":"bilal@gmail.com",
+        "dni":"45836666g",
+        "pais":"españa"
+    },
+    "student":{
+        "name":"Raer",
+        "surname":"Gaes",
+        "email":"gaer@gmail.com",
+        "dni":"4583345645t",
+        "pais":"rusia"
+    }}}
+        
